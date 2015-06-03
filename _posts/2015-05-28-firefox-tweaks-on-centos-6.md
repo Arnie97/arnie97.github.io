@@ -20,7 +20,7 @@ title: CentOS 6安装Firefox挂机及优化
 ```
 
 没错，这样都可以了。
-网上广泛流传着[用`rpm`安装的方法，比较麻烦，不建议使用。](https://www.centosblog.com/enable-epel-repo-on-centos-5-and-centos-6)。
+网上广泛流传着[用`rpm`安装的方法，比较麻烦，不建议使用](https://www.centosblog.com/enable-epel-repo-on-centos-5-and-centos-6)。
 
 此外，为了[安装Adobe Flash Player](http://www.if-not-true-then-false.com/2010/install-adobe-flash-player-10-on-fedora-centos-red-hat-rhel)，可以添加这个软件包：
 
