@@ -1,0 +1,11 @@
+space:after {
+  content: " ";
+  display: inline;
+  font-size: 0.8em;
+}
+
+ol >, ul >, code, pre, kbd, samp {
+  space {
+    display: none;
+  }
+}
